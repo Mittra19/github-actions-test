@@ -1,0 +1,27 @@
+name: Anubhav
+age: 25
+address: "sonargaon"
+active: true
+key:
+    key1: value1
+    key2: value2
+    key3:
+        key1: valueobject1
+        key2: valueobject2
+array:
+    - item1
+    - item2
+jsonarray: [item1, item2]
+objectsarray:
+    - key: value
+      key2: value 2
+    - key: 2nd object value
+      key2: 2nd object value 2
+longtextWithNoNewLine: > 
+    aslduigsdf 
+    bohapgwa 
+    ilugasdigd
+longtextWithNewLine: | 
+    aslduigsdf 
+    bohapgwa 
+    ilugasdigd
